@@ -1,4 +1,4 @@
-## !!!airtest  
+# airtest  
 auto_setup(__file__, devices = ['Android://127.0.0.1:5037/127.0.0.1:62025?cap_method=JAVACAP^&^&ori_method=ADBORI'])  多設備連接  
 
 x.attr(‘desc’)取得特殊屬性值  
