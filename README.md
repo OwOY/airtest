@@ -1,4 +1,12 @@
 # airtest  
+## 使用步驟  
+1.python -m pip install airtest  
+2.python -m pip install pocoui  
+3.下載Airtest IDE  
+4.確認手機或模擬器開啟ROOT&手機調適設定  
+5.開始使用Airtest  
+  
+##指令
 auto_setup(__file__, devices = ['Android://127.0.0.1:5037/127.0.0.1:62025?cap_method=JAVACAP^&^&ori_method=ADBORI'])  多設備連接  
 
 x.attr(‘desc’)取得特殊屬性值  
