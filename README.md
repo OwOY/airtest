@@ -28,7 +28,7 @@ https://www.mdeditor.tw/pl/2iK6/zh-tw  基本介紹
 https://www.cnblogs.com/wutaotaosin/articles/11396827.html  基本操作  
 https://www.codenong.com/cs105283799/  進階指令  
 
-## adb    
+## adb  
 連接nox  
 - adb -s 127.0.0.1:{port}  
 查看adb狀態  
