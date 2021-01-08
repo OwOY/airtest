@@ -4,9 +4,10 @@
 1.下載Airtest IDE  
 2.python -m pip install airtest  
 3.python -m pip install pocoui   
-4.check adb version   (//airtest/core/android/windows/adb/adb.exe --version  >   //nox/bin/adb.exe&nox_adb.exe). 
+4.check adb version   (//airtest/core/android/windows/adb/adb.exe --version  >   //nox/bin/adb.exe&nox_adb.exe).   
 5.確認手機或模擬器開啟ROOT&手機調適設定  
 6.開始使用Airtest  
+- 若無法開啟  請手動安裝Yosmite(Path:airtest/core/apk)  
   
 ## 基本用法  
 ### 連接手機模擬器 port:62025(nox)  
