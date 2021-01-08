@@ -1,7 +1,7 @@
 # airtest  
 ## 使用步驟 
-!python3.7(python3.8以上版本不適用） 
-1.下載Airtest IDE
+!python3.7(python3.8以上版本不適用）  
+1.下載Airtest IDE  
 2.python -m pip install airtest  
 3.python -m pip install pocoui   
 4.check adb version   (//airtest/core/android/windows/adb/adb.exe --version  >   //nox/bin/adb.exe&nox_adb.exe). 
