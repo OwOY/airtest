@@ -30,8 +30,8 @@ https://www.codenong.com/cs105283799/  進階指令
 
 ## adb    
 連接nox  
-- adb -s 127.0.0.1:{port}
-ˊ查看adb狀態  
+- adb -s 127.0.0.1:{port}  
+查看adb狀態  
 - adb devices  
 斷開連結！！  
 - adb kill-server  
