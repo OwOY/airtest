@@ -31,17 +31,22 @@ https://www.codenong.com/cs105283799/  進階指令
 ## adb  
 連接nox  
 - adb -s 127.0.0.1:{port}  
+  
 查看adb狀態  
 - adb devices  
+  
 斷開連結！！  
 - adb kill-server  
+    
 重新連結  
 - adb start-server  
+  
 進入shell  
 - adb -s 127.0.0.1:{port} shell  
+  
 重啟adb  
 - adb -s 127.0.0.1:{port} reboot  
-
+  
 ### 喚醒媒體庫  
 
 - adb shell "am broadcast -a android.intent.action.MEDIA_MOUNTED -d file:///sdcard  
