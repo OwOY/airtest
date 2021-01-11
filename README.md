@@ -1,6 +1,7 @@
 # airtest  
-## 使用步驟  
 <img src="https://airtest.netease.com/static/img/icon/logo.png"></img>  
+## 使用步驟  
+  
 !python3.7(python3.8以上版本不適用）  
 1.下載Airtest IDE  
 2.python -m pip install airtest  
