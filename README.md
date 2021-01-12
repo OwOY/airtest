@@ -51,13 +51,13 @@ adb -s 127.0.0.1:{port} shell
 - 重啟adb  
 adb -s 127.0.0.1:{port} reboot  
   
-### 喚醒媒體庫  
+## 喚醒媒體庫  
 - 整個資料夾  
 adb shell "am broadcast -a android.intent.action.MEDIA_MOUNTED -d file:///sdcard  
 - 單一文件  
 adb shell "am broadcast -a android.intent.action.MEDIA_SCANNER_SCAN_FILE -d file:///sdcard/DCIM/Camera/Video/{video}"  
   
-### 強制停止app  
+## 強制停止app  
 - Youtube  
 am force-stop com.google.android.youtube
   
