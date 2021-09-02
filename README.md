@@ -1,5 +1,4 @@
-# airtest  
-<img src="https://airtest.netease.com/static/img/icon/logo.png"></img>  
+<img height=200px src="https://airtest.netease.com/static/img/icon/logo.png"></img>  
 ## 使用步驟  
   
 !python3.7(python3.8以上版本不適用）  
